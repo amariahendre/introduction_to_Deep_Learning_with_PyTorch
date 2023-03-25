@@ -1,5 +1,4 @@
-# introduction_to_Deep_Learning_with_PyTorch
-
+# Introduction to Deep Learning with PyTorch
 
 Welcome to the Introduction to Deep Learning with PyTorch! This project is intended to provide a basic understanding of deep learning and its implementation using PyTorch.
 
